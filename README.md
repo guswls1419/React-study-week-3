@@ -47,3 +47,4 @@
 
 
 ## 😄 개인 회고 😄
+https://velog.io/@guswls1419/memoirsWeek-5
